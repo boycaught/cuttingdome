@@ -1,2 +1,2 @@
-# cuttinghedz
-Cutting it up with the cutters of heads
+# cuttingdome
+Cutting it up with the cutters of domes
