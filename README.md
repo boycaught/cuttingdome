@@ -7,4 +7,4 @@ Elixir/PhoenixFramework or ELM.
 
 MongoDB, RehthinkDB, or CouchDB.
 
-Electron?
+Electron is an option.
