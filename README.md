@@ -5,6 +5,4 @@ Looking for a better way, using a functional language.
 
 Elixir/PhoenixFramework or ELM. 
 
-MongoDB, RehthinkDB, or CouchDB.
-
-Electron is an option.
+MongoDB, RehthinkDB, CouchDB, Electron.
